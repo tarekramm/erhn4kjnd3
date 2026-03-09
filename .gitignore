@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.db
+*.sqlite
+*.log
+.env
+.history/
+screenshots/
+html/
+
