@@ -10,7 +10,7 @@ The system analyzes publicly accessible URLs and identifies potential exposure o
 
 ## Overview
 
-The detection pipeline identifies potential privacy leaks through multiple analysis stages, including:
+The detection pipeline identifies potential privacy leaks through multiple analysis stages, with LLM reasoning applied at selected stages when deeper semantic interpretation is required, including:
 
 - Lexical filtering of suspicious URL parameters
 - Structural heuristic analysis
