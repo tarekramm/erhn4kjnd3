@@ -48,3 +48,5 @@ The system analyzes only publicly accessible resources and **does not attempt au
 This project is licensed under **Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0)**.
 
 See the `LICENSE` file for details.
+
+© Tarek Ramadan
