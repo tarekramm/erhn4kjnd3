@@ -1,4 +1,4 @@
-# Scanned and Leaked – Hybrid URL Leak Detection System
+#  Hybrid Leak Detection System
 
 This repository contains the hybrid leak detection framework used in the study:
 
