@@ -1,8 +1,6 @@
 #  Hybrid Leak Detection System
 
-This repository contains the hybrid leak detection framework used in the study:
 
-**"Scanned and Leaked: Measuring Sensitive Data Exposure in Public URL Repositories."**
 
 The system analyzes publicly accessible URLs and identifies potential exposure of sensitive information using a combination of heuristic analysis and automated artifact inspection.
 
